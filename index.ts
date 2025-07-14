@@ -52,6 +52,7 @@ const RealProgrammerQWERTYSecondLayer =
                 map("7", "shift").to("7"),
                 map("8", "shift").to("8"),
                 map("9", "shift").to("9"),
+                map("caps_lock", "shift").to("2", "shift"),
             ])
         ]);
 
